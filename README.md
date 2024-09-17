@@ -28,4 +28,5 @@ The implementations of these models are provided in the `Algorithms/` directory.
 ---
 
 ## Repository Structure
+├── Algorithms/ │ ├── LSTM/ │ │ ├── lstm_model.py │ │ ├── data_preprocessing.py │ │ └── evaluation_metrics.py │ ├── TimeGAN/ │ │ ├── timegan_model.py │ │ ├── timegan_training.py │ │ └── evaluation_metrics.py │ └── Block_Bootstrapping/ │ ├── block_bootstrap.py │ └── evaluation.py ├── Paper/ │ └── Aniket_Dere_Masters_Thesis.pdf
 
