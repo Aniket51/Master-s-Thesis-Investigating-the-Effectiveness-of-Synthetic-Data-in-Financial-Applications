@@ -63,18 +63,13 @@ The outputs include:
 - Generated synthetic time-series datasets.
 - Visual comparisons between real and synthetic data.
 - Evaluation metrics such as statistical similarity and predictive accuracy.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
 
 ---
 
 ## Contact
 
 For any questions or further information, feel free to contact me at:
-- **Email**: aniket.dere@example.com
+- **Email**: aniketdere52@gmail.com
 - **LinkedIn**: [Aniket Dere](https://www.linkedin.com/in/aniket-dere/)
 
