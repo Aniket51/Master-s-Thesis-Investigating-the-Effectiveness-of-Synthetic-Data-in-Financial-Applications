@@ -27,6 +27,54 @@ The implementations of these models are provided in the `Algorithms/` directory.
 
 ---
 
-## Repository Structure
-├── Algorithms/ │ ├── LSTM/ │ │ ├── lstm_model.py │ │ ├── data_preprocessing.py │ │ └── evaluation_metrics.py │ ├── TimeGAN/ │ │ ├── timegan_model.py │ │ ├── timegan_training.py │ │ └── evaluation_metrics.py │ └── Block_Bootstrapping/ │ ├── block_bootstrap.py │ └── evaluation.py ├── Paper/ │ └── Aniket_Dere_Masters_Thesis.pdf
+
+---
+
+## Requirements
+
+The following Python libraries are required to run the code:
+- `TensorFlow`
+- `Keras`
+- `Numpy`
+- `Pandas`
+- `Matplotlib`
+- `Scikit-learn`
+
+To install the dependencies, run:
+
+
+---
+
+## How to Run
+
+1. **Clone the Repository**:
+
+2. **Navigate to the Algorithms Directory**:
+
+3. **Run the LSTM Model**:
+
+4. Similarly, navigate to the `TimeGAN` and `Block_Bootstrapping` directories and run the respective scripts.
+
+---
+
+## Results
+
+The outputs include:
+- Generated synthetic time-series datasets.
+- Visual comparisons between real and synthetic data.
+- Evaluation metrics such as statistical similarity and predictive accuracy.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+For any questions or further information, feel free to contact me at:
+- **Email**: aniket.dere@example.com
+- **LinkedIn**: [Aniket Dere](https://www.linkedin.com/in/aniket-dere/)
 
